@@ -1,0 +1,18 @@
+[user]
+  name = Altugle
+  email = altugle.net@gmail.com
+
+[alias]
+  s = status
+  d = diff
+  c = checkout
+  b = branch
+  l = log
+  ba = branch -a
+
+[core]
+  quotepath = false
+  precomposeunicode = true
+
+[color]
+  ui = true
